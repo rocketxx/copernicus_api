@@ -14,3 +14,7 @@
 # Ignore all pycache
 **/__pycache__/
 .env
+venv
+.env
+__pycache__/
+*.pyc
